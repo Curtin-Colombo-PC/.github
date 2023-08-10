@@ -1,2 +1,2 @@
 ## Hi there 👋
-![alt text](../loop.mp4)
+![alt text](../loop.gif)
