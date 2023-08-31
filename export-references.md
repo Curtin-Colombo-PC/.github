@@ -1,3 +1,5 @@
+
+<!--- #footer --->
 ---
 <h3
   style="
@@ -16,3 +18,4 @@
   />
   <span>Programming Club of Curtin Colombo</span>
 </h3>
+<!--- #footer --->
